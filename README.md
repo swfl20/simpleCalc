@@ -1,2 +1,3 @@
 # simpleCalc
-My Android calculator project
+My simple Android calculator project
+created via Eclipse
